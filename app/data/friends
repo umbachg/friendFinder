@@ -3,15 +3,16 @@ let friends = [ {
     "photo": "https://img.nbc.com/sites/nbcunbc/files/images/2017/9/18/ChicagoFire-S6-Bio-Photos-EamonnWalker-1455x1455-KO.jpg?impolicy=nbc_com&imwidth=480&imdensity=1",
     "score": [
         "1",
-        "3",
-        "5",
-        "4",
         "1",
-        "2",
-        "2",
-        "5",
-        "3",
-        "3"
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+        
     ]
 },
 {
@@ -19,63 +20,68 @@ let friends = [ {
     "photo": "https://i.pinimg.com/originals/3e/86/f9/3e86f9bf8c4571c8400dbd0e91884fc3.jpg",
     "score": [
         "2",
-        "4",
-        "5",
-        "3",
-        "4",
         "2",
-        "4",
-        "4",
-        "4",
-        "3"
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+        
     ]
 },
 {
     "name": "Severide",
     "photo": "https://d.newsweek.com/en/full/1543456/kelly-severide-leaving-chicago-fire.jpg",
     "score": [
-        "2",
-        "5",
-        "5",
-        "1",
-        "5",
-        "5",
-        "1",
-        "5",
-        "1",
-        "1"
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3"
+
+       
     ]
 },
 {
     "name": "Otis",
     "photo": "https://img.nbc.com/sites/nbcunbc/files/images/2017/9/18/ChicagoFire-S6-Bio-Photos-YuriySardarov-1455x1455-KO.jpg",
     "score": [
-        "5",
-        "2",
-        "5",
         "4",
-        "3",
-        "2",
-        "3",
-        "1",
         "4",
-        "5"
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+        
     ]
 },
 {
     "name": "Cruz",
     "photo": "https://cheesecake.articleassets.meaww.com/383055/uploads/bcbcefd0-f60c-11e9-a0b6-d375bed3f6e1_800_420.png",
     "score": [
-        "4",
-        "1",
-        "4",
-        "4",
-        "3",
-        "1",
         "5",
-        "1",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
         "5",
         "5"
+        
     ]
 },
 
